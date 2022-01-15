@@ -1,0 +1,8 @@
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Operatorler\Operatorler\bin\Debug\Operatorler.exe.config
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Operatorler\Operatorler\bin\Debug\Operatorler.exe
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Operatorler\Operatorler\bin\Debug\Operatorler.pdb
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Operatorler\Operatorler\obj\Debug\Operatorler.csproj.AssemblyReference.cache
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Operatorler\Operatorler\obj\Debug\Operatorler.csproj.SuggestedBindingRedirects.cache
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Operatorler\Operatorler\obj\Debug\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Operatorler\Operatorler\obj\Debug\Operatorler.exe
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Operatorler\Operatorler\obj\Debug\Operatorler.pdb
