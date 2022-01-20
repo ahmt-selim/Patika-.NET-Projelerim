@@ -1,0 +1,8 @@
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Tip Dönşümleri\Tip Dönşümleri\bin\Debug\Tip Dönşümleri.exe.config
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Tip Dönşümleri\Tip Dönşümleri\bin\Debug\Tip Dönşümleri.exe
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Tip Dönşümleri\Tip Dönşümleri\bin\Debug\Tip Dönşümleri.pdb
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Tip Dönşümleri\Tip Dönşümleri\obj\Debug\Tip Dönşümleri.csproj.AssemblyReference.cache
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Tip Dönşümleri\Tip Dönşümleri\obj\Debug\Tip Dönşümleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Tip Dönşümleri\Tip Dönşümleri\obj\Debug\Tip Dönşümleri.csproj.CoreCompileInputs.cache
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Tip Dönşümleri\Tip Dönşümleri\obj\Debug\Tip Dönşümleri.exe
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Tip Dönşümleri\Tip Dönşümleri\obj\Debug\Tip Dönşümleri.pdb
