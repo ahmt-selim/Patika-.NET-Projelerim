@@ -40,7 +40,8 @@ namespace Hata_Yönetimi
             catch (ArgumentNullException ex)
             {
                 Console.WriteLine("Boş değer girdiniz.");
-                Console.WriteLine(ex);                
+                Console.WriteLine(ex);
+                throw;
             }
 
             Console.ReadLine();
