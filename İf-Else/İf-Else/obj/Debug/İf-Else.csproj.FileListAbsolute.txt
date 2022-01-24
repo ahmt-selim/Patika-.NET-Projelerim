@@ -1,0 +1,8 @@
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\İf-Else\İf-Else\obj\Debug\İf-Else.csproj.AssemblyReference.cache
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\İf-Else\İf-Else\obj\Debug\İf-Else.csproj.SuggestedBindingRedirects.cache
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\İf-Else\İf-Else\obj\Debug\İf-Else.csproj.CoreCompileInputs.cache
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\İf-Else\İf-Else\bin\Debug\İf-Else.exe.config
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\İf-Else\İf-Else\bin\Debug\İf-Else.exe
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\İf-Else\İf-Else\bin\Debug\İf-Else.pdb
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\İf-Else\İf-Else\obj\Debug\İf-Else.exe
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\İf-Else\İf-Else\obj\Debug\İf-Else.pdb
