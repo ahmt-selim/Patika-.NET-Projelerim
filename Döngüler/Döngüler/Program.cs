@@ -13,7 +13,7 @@ namespace Döngüler
             //FOR Döngüsü
 
             //Girilen sayıya kadar olan tek sayıları yazdır.
-            Console.WriteLine("Bir sayı giriniz: ");
+            Console.Write("Bir sayı giriniz: ");
             int sayac=int.Parse(Console.ReadLine());
             for (int i = 1; i < sayac; i++)
             {
@@ -43,19 +43,29 @@ namespace Döngüler
                 Console.WriteLine(i);
             }
 
+            //WHİLE Döngüsü 
 
+            // Girilen sayıya kadar olan sayıların ortalmasını bulan uygulama
+            Console.Write("Bir sayı giriniz: ");
+            int sayi=int.Parse(Console.ReadLine());
+            int sayac1 = 1;
+            int toplam = 0;
+            while (sayac1<=sayi)
+            {
+                toplam += sayac1;
+                sayac1++;
+            }
+            Console.WriteLine("Ortalama: " + toplam);
 
+            //Forech Döngüsü
+            Console.WriteLine("****Forech****");
 
+            string[] arabalar = { "Reno", "Fiat", "Toyota", "Nissan" };
 
-
-
-
-
-
-
-
-
-
+            foreach (var araba in arabalar)
+            {
+                Console.WriteLine(araba);
+            }
 
             Console.ReadLine();
         }
