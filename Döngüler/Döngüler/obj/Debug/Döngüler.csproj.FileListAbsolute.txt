@@ -1,0 +1,8 @@
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Döngüler\Döngüler\bin\Debug\Döngüler.exe.config
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Döngüler\Döngüler\bin\Debug\Döngüler.exe
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Döngüler\Döngüler\bin\Debug\Döngüler.pdb
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Döngüler\Döngüler\obj\Debug\Döngüler.csproj.AssemblyReference.cache
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Döngüler\Döngüler\obj\Debug\Döngüler.csproj.SuggestedBindingRedirects.cache
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Döngüler\Döngüler\obj\Debug\Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Döngüler\Döngüler\obj\Debug\Döngüler.exe
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Döngüler\Döngüler\obj\Debug\Döngüler.pdb
