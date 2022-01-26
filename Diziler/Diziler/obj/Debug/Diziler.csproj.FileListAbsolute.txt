@@ -1,0 +1,8 @@
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Diziler\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Diziler\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Diziler\Diziler\obj\Debug\Diziler.csproj.SuggestedBindingRedirects.cache
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Diziler\Diziler\obj\Debug\Diziler.exe
+C:\Users\AhmetSelim\Github Repolarım\Patika.NET-Projelerim\Diziler\Diziler\obj\Debug\Diziler.pdb
